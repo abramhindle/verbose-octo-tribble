@@ -1,5 +1,5 @@
 class X {
-	void getX() {
+	int getX() {
 		return 1;
 	}
 }
